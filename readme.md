@@ -38,7 +38,7 @@ GitHub Repository: https://github.com/HoangLong1802/Automated-IT-Asset-Inventory
 
 6. Run the script:
 
-   .\run_inventory.bat
+   .\window\inventory_windows.ps1
 
 7. Output:
    - asset_inventory_windows.csv: hardware/software info
